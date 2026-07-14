@@ -6,3 +6,6 @@
 [VEÍCULOS] MaxTuning, Super Boost Infinito, Desvirar, Reparar e Trocar Placa
 [VISUAIS] ESP atualizado com novos filtros e funções
 [COMBATE] Fast Reload ajustado 
+[UPDATE] Cheat de Freefire atualizacao hoje
+[UPDATE] External EXECUTOR LUA/DUMP/EVENT-LOGGER = Events & Triggers
+
