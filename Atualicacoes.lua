@@ -8,4 +8,4 @@
 [COMBATE] Fast Reload ajustado 
 [UPDATE] Cheat de Freefire atualizacao hoje
 [UPDATE] External EXECUTOR LUA/DUMP/EVENT-LOGGER = Events & Triggers
-
+[UPDATE] SPOOFER HWID TESTE 
