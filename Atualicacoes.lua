@@ -18,4 +18,6 @@
 [UPDATE] MULTI LODER FIVEM EXTERNAL safe + beta ATUALIZADO 26/07
 [UPDATE] MULTI LODER melhoria interface  27/07
 [NOVO] Warzone versao Free
+[NOVO] Remote Control fivem
+[NOVO] systema revendedor 
 
