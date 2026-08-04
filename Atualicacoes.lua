@@ -20,4 +20,5 @@
 [NOVO] Warzone versao Free
 [NOVO] Remote Control fivem
 [NOVO] systema revendedor 
+[UPDATE] FIVEM EXTERNAL SAFE E BETA FIX ATUALIZADO 4/08
 
