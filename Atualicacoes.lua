@@ -22,7 +22,7 @@
 [NOVO] systema revendedor 
 [UPDATE] FIVEM EXTERNAL SAFE E BETA FIX ATUALIZADO 4/08
 [UPDATE] warzone fix 7/08
-[UPDATE] Loader bug e erros fix 7/08
+[UPDATE] Loader bug e erros fix 11/08
 
 
 
