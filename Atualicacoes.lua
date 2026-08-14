@@ -24,5 +24,7 @@
 [UPDATE] warzone fix 7/08
 [UPDATE] Loader bug e erros fix 11/08
 [UPDATE] Loader fix 11/08
+[UPDATE] Loader fix  warzone 14/08
+NOVO] Cheat Fortnite 14/08
 
 
