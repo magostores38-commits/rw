@@ -27,6 +27,6 @@
 [UPDATE] Loader fix  warzone 14/08
 [NOVO] Cheat Fortnite 14/08
 [NOVO] Cheat farlight 20/08
-[NOVO] Fix Warzone e Fortnite 
+[UPDATE] Fix Warzone e Fortnite 
 
 
