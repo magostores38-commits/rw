@@ -28,5 +28,6 @@
 [NOVO] Cheat Fortnite 14/08
 [NOVO] Cheat farlight 20/08
 [UPDATE] Fix Warzone e Fortnite 
+[UPDATE] Fix Warzone 25/08
 
 
