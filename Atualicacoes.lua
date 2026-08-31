@@ -29,5 +29,7 @@
 [NOVO] Cheat farlight 20/08
 [UPDATE] Fix Warzone e Fortnite 
 [UPDATE] Fix Warzone 25/08
-
+[UPDATE] Fortnite 30/08
+[UPDATE] remote fivem 30/08
+[UPDATE] bypass fivem 30/08
 
