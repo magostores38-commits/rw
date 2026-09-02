@@ -32,4 +32,5 @@
 [UPDATE] Fortnite 30/08
 [UPDATE] remote fivem 30/08
 [UPDATE] bypass fivem 30/08
+[UPDATE] Fortnite fix 02/09
 
