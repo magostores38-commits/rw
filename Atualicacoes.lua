@@ -34,3 +34,4 @@
 [UPDATE] bypass fivem 30/08
 [UPDATE] Fortnite fix 02/09
 [UPDATE] Fortnite fix 40.0.10 03/09
+[UPDATE] Spoofer 100% hwid versao teste 04/09
