@@ -38,3 +38,4 @@
 [UPDATE] Fortnite e Warzone 07/09
 [UPDATE] Fortnite e Freefire 20/09
 [UPDATE] Bloodstrike 20/09
+[UPDATE] fortnite  01/10
