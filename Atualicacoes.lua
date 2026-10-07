@@ -39,3 +39,4 @@
 [UPDATE] Fortnite e Freefire 20/09
 [UPDATE] Bloodstrike 20/09
 [UPDATE] fortnite  01/10
+[UPDATE] Fortnite fix + aimbot teste  / farlight-84 fix 
