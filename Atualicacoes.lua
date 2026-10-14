@@ -41,3 +41,4 @@
 [UPDATE] fortnite  01/10
 [UPDATE] Fortnite fix + aimbot teste  / farlight-84 fix 
 [NOVO] Cheat pubg 12/10
+[UPDATE]fix Cheat pubg 14/10
