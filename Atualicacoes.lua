@@ -43,3 +43,4 @@
 [NOVO] Cheat pubg 12/10
 [UPDATE]fix Cheat pubg 14/10
 [UPDATE]fix Cheat pubg e Bloodstrike 19/10
+[UPDATE]fix Cheat fortnite 20/10
