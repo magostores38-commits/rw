@@ -47,4 +47,5 @@
 [UPDATE]fix Cheat Warzone/bloodstrike/freefire external 27/10
 [UPDATE]fix Cheat pubg 05/11
 [UPDATE]fix Cheat pubg e bloodstrike 24/11
+[UPDATE]fix Cheat fortnite 24/11
 
